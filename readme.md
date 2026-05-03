@@ -1,6 +1,8 @@
 # Git Practice
 
 This repository is created to practice Git and GitHub workflow.
+## Additional Update
+Practiced creating a new branch and pull request.
 
 ## What I did
 - Created repository
